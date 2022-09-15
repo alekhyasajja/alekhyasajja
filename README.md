@@ -1,9 +1,0 @@
-### Hi there 👋
-
-<!--
-**alekhyasajja/alekhyasajja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on developing games for upper limb rehabilitation...
-- 📫 How to reach me: vxsajja@shockers.wichita.edu ...
-- 😄 Pronouns: she/her ...
--->
